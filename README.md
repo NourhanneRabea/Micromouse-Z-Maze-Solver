@@ -1,4 +1,4 @@
-# 🐭 Micromouse Maze Solver
+# 🐭 Micromouse
 
 This project implements an **intelligent maze-solving robot** based on the **Flood Fill algorithm**, designed for the **IEEE Victoris 2.0 Competition**, where it won the **Best Software Award**.  
 The robot autonomously navigates a maze, learns its environment, and optimizes the shortest path to the goal using embedded C programming.
