@@ -38,6 +38,3 @@ This algorithm is widely used in **AI pathfinding** and **autonomous robotics**,
   *Recognized for implementing an optimized version of the Flood Fill algorithm for efficient maze-solving robotics.*
 
 ---
-
-## 💬 Acknowledgment
-Developed as part of the **IEEE Victoris 2.0 Micromouse Competition**, Mansoura University, Egypt.
